@@ -1,0 +1,13 @@
+package com.cognizant.payments;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World! - Welcome to Cognizant" );
+    }
+}
